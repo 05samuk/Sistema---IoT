@@ -12,6 +12,7 @@ Nosso objetivo é desenvolver um sistema automatizado de coleta e análise de da
 Implementar um sistema de coleta e análise de dados de produção automatizado é essencial para a empresa, pois permite transformar a vastidão de dados gerados na linha de produção em informações estratégicas e acionáveis. Com isso, o sistema possibilitará monitoramento contínuo e em tempo real, reduzindo a dependência de processos manuais e minimizando o risco de erros humanos. Isso resulta em uma visão completa e precisa da operação, permitindo a identificação imediata de falhas, ineficiências e oportunidades de melhoria.
 <br><br>
 Além disso, a geração automática de relatórios detalhados e dashboards em tempo real fornecerá à gestão as ferramentas necessárias para tomar decisões mais rápidas e informadas.
+<br><br>
 
 ## ***Organização e Priorização das Ideias***
 ![WhatsApp Image 2024-08-28 at 21 59 21](https://github.com/user-attachments/assets/c73cf0fc-293c-48cd-be39-7e1c21a794c0)
@@ -90,6 +91,7 @@ Objetivos: Giovana busca constantemente formas de melhorar a eficiência da linh
 Desafios: Giovana enfrenta desafios como a falta de dados integrados para análise rápida, a necessidade de minimizar paradas inesperadas e a pressão para atender a metas de produção cada vez mais agressivas. Ela também precisa lidar com a complexidade crescente das operações e com a variabilidade na demanda.
 
 -------------------------------------------------------------------------------------------------------------------------
+<br>
 
 ## ***Diagrama de Contexto***
 ```mermaid
@@ -117,7 +119,7 @@ flowchart TD
     G --> H{Análise de Dados}
     H -->|Identificar Defeitos| I[Notificar Equipe de Manutenção]
     H -->|Monitorar Consumo de Energia| J[Gerar Relatório de Consumo]
-    H -->|Analisar Eficiência de Produção| K[Identificar Gargalos]
+    H -->|Analisar Eficiência de Produção| K[Identificar Limitações]
     K --> L[Propor Ações de Melhoria]
     I --> M[Registrar Ações Corretivas]
     J --> N[Recomendar Otimizações de Consumo]
