@@ -96,15 +96,16 @@ Desafios: Giovana enfrenta desafios como a falta de dados integrados para análi
 ## ***Diagrama de Contexto***
 ```mermaid
 flowchart TB
-    A["Monitoramento de Sensores"] --> B["Dashboards"] & C["Geracao de Relatorios"] & D["Armazenamento de Dados"]
-    D --> E["Analise de Dados"]
-    E --> B & C
+    A["Monitoramento de Sensores"] --> B["Geracao de Relatorios"] & C["Armazenamento de Dados"]
+    C --> D["Analise de Dados"]
+    D --> B & C
     F["Linha de Producao"] --> A
     G["Equipe de Producao"] --> B & C
-    B <--> I["Interface de Usuario"]
+    B <--> I["Sistema de Autenticação"]
+
     D <--> J["SGBD"]
-    I <--> K["Sistema de Autenticacao"]
-    E <--> L["Servicos de Analise de Dados"]
+    I <--> K["Interface de Usuário"]
+    D <--> L["Servicos de Analise de Dados"]
 ```
 ## ***Diagrama de Atividade*** 
 ```mermaid
