@@ -25,70 +25,71 @@ Após discussão, definimos que a Kanjiko do Brasil seria a empresa ideal para n
 O projeto se alinha perfeitamente às necessidades de uma empresa que valoriza a excelência operacional e a inovação tecnológica para se destacar no mercado automotivo.
 
 ### **Personas** 
+-------------------------------------------------------------------------------------------------------------------------
 
-Nome: Paulo  Kojima
+**Nome:** Paulo  Kojima 🚹
 
-Idade: 	43 anos
+**Idade:** 	43 anos
 
-Cargo: Diretor de Produção na Kanjiko
+**Cargo:** Diretor de Produção na Kanjiko
 
-Objetivos: Como Diretor de Produção, Paulo está sempre buscando formas de otimizar os processos produtivos da Kanjiko. Ele quer reduzir o tempo de inatividade, melhorar o controle de qualidade e garantir que os processos sejam os mais eficientes e sustentáveis possíveis. Paulo também está focado em impulsionar a tecnologia para obter um diferencial competitivo no mercado. 
+**Objetivos:** Como Diretor de Produção, Paulo está sempre buscando formas de otimizar os processos produtivos da Kanjiko. Ele quer reduzir o tempo de inatividade, melhorar o controle de qualidade e garantir que os processos sejam os mais eficientes e sustentáveis possíveis. Paulo também está focado em impulsionar a tecnologia para obter um diferencial competitivo no mercado. 
 
-Desafios: Paulo lida com desafios como a variabilidade na produção, a necessidade de integração de dados de diferentes fontes e a dificuldade de monitorar o consumo de energia e defeitos de forma coesa. Ele busca uma solução que ofereça visibilidade em tempo real e permita a tomada de decisões baseadas em dados concretos.
+**Desafios:** Paulo lida com desafios como a variabilidade na produção, a necessidade de integração de dados de diferentes fontes e a dificuldade de monitorar o consumo de energia e defeitos de forma coesa. Ele busca uma solução que ofereça visibilidade em tempo real e permita a tomada de decisões baseadas em dados concretos.
 
 -------------------------------------------------------------------------------------------------------------------------
 
-Nome: Pedro Franco
+**Nome:** Pedro Franco 🚹
 
-Idade: 37 anos.
+**Idade:** 37 anos.
 
-Cargo: Engenheiro de manutenção  
+**Cargo:** Engenheiro de manutenção  
 
-Experiência: 12 anos na manutenção de linhas de produção automotiva, especialista em diagnóstico e resolução de problemas técnicos.
+**Experiência:** 12 anos na manutenção de linhas de produção automotiva, especialista em diagnóstico e resolução de problemas técnicos.
 
-Objetivos: Minimizar o tempo de inatividade das máquinas, prever falhas antes que ocorram e implementar manutenção preditiva e preventiva.
+**Objetivos:** Minimizar o tempo de inatividade das máquinas, prever falhas antes que ocorram e implementar manutenção preditiva e preventiva.
 
-Desafios: Identificar rapidamente as causas dos problemas, gerenciar a manutenção de diversos equipamentos e garantir que as máquinas funcionem com máxima eficiência.
-
--------------------------------------------------------------------------------------------------------------------------
-
-Nome: Dorivaldo Jesus
-
-Idade: 52 anos.
-
-Cargo: Gerente de Qualidade
-
-Experiência: 20 anos na área de controle de qualidade, com foco em processos de auditoria e conformidade.
-
-Objetivos: Garantir que todas as peças e processos estejam dentro dos padrões de qualidade estabelecidos, reduzir o número de defeitos e retrabalho.
-
-Desafios: Monitorar em tempo real a qualidade dos produtos, identificar a origem de falhas rapidamente e melhorar a rastreabilidade das peças.
+**Desafios:** Identificar rapidamente as causas dos problemas, gerenciar a manutenção de diversos equipamentos e garantir que as máquinas funcionem com máxima eficiência.
 
 -------------------------------------------------------------------------------------------------------------------------
-Nome: Walter Neto 
 
-Cargo: Gerente de Projetos 
+**Nome:** Dorivaldo Jesus 🚹
 
-Idade: 64 anos
+**Idade:** 52 anos.
 
-Experiência: Mais de 32 anos na gestão de projetos industriais e automotivos, com um histórico robusto de implementação de projetos complexos em grandes empresas. 
+**Cargo:** Gerente de Qualidade
 
-Objetivos: Walter está focado em garantir que os projetos sejam entregues com alta qualidade, alinhados aos objetivos estratégicos da empresa. Ele busca formas de integrar novas tecnologias de forma suave, minimizando riscos e maximizando o retorno sobre o investimento.
+**Experiência:** 20 anos na área de controle de qualidade, com foco em processos de auditoria e conformidade.
 
-Desafios: O volume crescente de dados gerados cria dificuldades na consolidação de informações, e Walter precisa de ferramentas que facilitem a geração de relatórios e a visualização de dados de forma clara e acionável. Por fim, ele precisa garantir que qualquer solução tecnológica adotada esteja alinhada com os objetivos estratégicos da Kanjiko.
+**Objetivos:** Garantir que todas as peças e processos estejam dentro dos padrões de qualidade estabelecidos, reduzir o número de defeitos e retrabalho.
+
+**Desafios:** Monitorar em tempo real a qualidade dos produtos, identificar a origem de falhas rapidamente e melhorar a rastreabilidade das peças.
 
 -------------------------------------------------------------------------------------------------------------------------
-Nome: Giovana Carvalho
+**Nome:** Walter Neto 🚹
 
-Idade: 33 anos
+**Cargo:** Gerente de Projetos 
 
-Cargo: Engenheiro de Produção
+**Idade:** 64 anos
 
-Experiência: 10 anos na indústria automotiva, com especialização em otimização de processos e gestão de operações produtivas.
+**Experiência:** Mais de 32 anos na gestão de projetos industriais e automotivos, com um histórico robusto de implementação de projetos complexos em grandes empresas. 
 
-Objetivos: Giovana busca constantemente formas de melhorar a eficiência da linha de produção, reduzir desperdícios e aumentar a produtividade. Ela está focada em implementar metodologias ágeis e tecnologias que possam simplificar o fluxo de trabalho e reduzir o tempo de ciclo de produção.
+**Objetivos:** Walter está focado em garantir que os projetos sejam entregues com alta qualidade, alinhados aos objetivos estratégicos da empresa. Ele busca formas de integrar novas tecnologias de forma suave, minimizando riscos e maximizando o retorno sobre o investimento.
 
-Desafios: Giovana enfrenta desafios como a falta de dados integrados para análise rápida, a necessidade de minimizar paradas inesperadas e a pressão para atender a metas de produção cada vez mais agressivas. Ela também precisa lidar com a complexidade crescente das operações e com a variabilidade na demanda.
+**Desafios:** O volume crescente de dados gerados cria dificuldades na consolidação de informações, e Walter precisa de ferramentas que facilitem a geração de relatórios e a visualização de dados de forma clara e acionável. Por fim, ele precisa garantir que qualquer solução tecnológica adotada esteja alinhada com os objetivos estratégicos da Kanjiko.
+
+-------------------------------------------------------------------------------------------------------------------------
+**Nome:** Giovana Carvalho 🚺
+
+**Idade:** 33 anos
+
+**Cargo:** Engenheiro de Produção
+
+**Experiência:** 10 anos na indústria automotiva, com especialização em otimização de processos e gestão de operações produtivas.
+
+**Objetivos:** Giovana busca constantemente formas de melhorar a eficiência da linha de produção, reduzir desperdícios e aumentar a produtividade. Ela está focada em implementar metodologias ágeis e tecnologias que possam simplificar o fluxo de trabalho e reduzir o tempo de ciclo de produção.
+
+**Desafios:** Giovana enfrenta desafios como a falta de dados integrados para análise rápida, a necessidade de minimizar paradas inesperadas e a pressão para atender a metas de produção cada vez mais agressivas. Ela também precisa lidar com a complexidade crescente das operações e com a variabilidade na demanda.
 
 -------------------------------------------------------------------------------------------------------------------------
 <br>
