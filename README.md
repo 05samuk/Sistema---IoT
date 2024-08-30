@@ -24,7 +24,7 @@ Além disso, a geração automática de relatórios detalhados e dashboards em t
 Após discussão, definimos que a Kanjiko do Brasil seria a empresa ideal para nosso público-alvo. A Kanjiko do Brasil é uma empresa fabricante de peças e acessórios automotivos, e faz parte do grupo Toyota, com mais de 15 anos de atuação no Brasil.
 O projeto se alinha perfeitamente às necessidades de uma empresa que valoriza a excelência operacional e a inovação tecnológica para se destacar no mercado automotivo.
 
-### Personas 
+### **Personas** 
 
 Nome: Paulo  Kojima
 
@@ -131,3 +131,40 @@ flowchart TD
     D -->|Não| P[Notificar Falha de Conexão]
     P --> C
 ```
+
+
+
+## ***FUNCIONALIDADES***
+
+<div style="display: flex; justify-content: space-between;">
+
+<div>
+    <h3>Requisitos Funcionais</h3>
+    <ul>
+        <li> Login do Usuário</li>
+        <li> Selecionar Linha de Produção</li>
+        <li> Análise de Dados</li>
+        <li> Identificar Limitações</li>
+        <li> Propor Ações e Melhorias</li>
+        <li> Gerar Relatório de Consumo</li>
+        <li> Recomendar Otimizações de Consumo</li>
+        <li> Registrar Ações Corretivas</li>
+        <li> Implementar Melhoria</li>
+    </ul>
+</div>
+
+<div>
+    <h3>Requisitos Não Funcionais</h3>
+    <ul>
+        <li> Conectar aos Sensores</li>
+        <li> Notificar Falha de Conexão</li>
+        <li> Coletar Dados em Tempo Real</li>
+        <li> Processar Dados </li>
+        <li> Atualizar Dashboards</li>
+        <li> Notificar a Equipe de Manutenção</li>
+    </ul>
+</div>
+
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------
